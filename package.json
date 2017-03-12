@@ -1,6 +1,6 @@
 {
   "name": "environment-configuration-resolver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Helpful environment variable resolver for Node.js objects that performs a deep walk looking for a custom env:// scheme",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "repository": "microsoft/environment-configuration-resolver-node",
   "author": "Microsoft Open Source Programs Office",
   "contributors": [
-    "Wilcox, Jeff <jwilcox@microsoft.com>"
+    "Jeff Wilcox <jwilcox@microsoft.com>"
   ],
   "license": "MIT",
   "dependencies": {
